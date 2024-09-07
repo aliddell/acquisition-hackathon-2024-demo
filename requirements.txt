@@ -1,0 +1,4 @@
+acquire-imaging==0.4.0rc2
+python-dotenv
+s3fs
+zarr
