@@ -1,4 +1,5 @@
 acquire-imaging==0.4.0rc2
+napari[all]
 python-dotenv
 s3fs
 zarr
